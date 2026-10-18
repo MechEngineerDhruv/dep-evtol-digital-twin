@@ -124,7 +124,7 @@ Wire the system according to **Main Schematic DTI (V1.0)** and the **38-Pin ESP3
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/dep-evtol-digital-twin.git
+   git clone [https://github.com/](https://github.com/)MechEngineerDhruv/dep-evtol-digital-twin.git
    cd dep-evtol-digital-twin
    ```
 2. **Configure the Arduino IDE:**
