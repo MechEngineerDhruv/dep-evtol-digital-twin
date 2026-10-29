@@ -1,8 +1,9 @@
 # 🚁 Digital Twin Framework for Real-Time Rotor Thrust & Power Monitoring in DEP Systems
 
-<p align="center">
-  <img src="test-stand.jpg" width="600" alt="DEP Digital Twin Test Rig">
-</p>
+<div style="display: flex; align-items: flex-start; gap: 10px;">
+  <img src="Full-Assembly-Rendring.jpg" width="400" alt="DEP Digital Twin Test Rig">
+  <img src="test-stand.jpg" width="400" alt="Second Test Rig">
+</div>
 
 A real-time, bidirectional **Cyber-Physical Digital Twin** designed to evaluate Distributed Electric Propulsion (DEP) units for Electric Vertical Takeoff and Landing (eVTOL) aircraft. Built upon the **ISO 23247 reference architecture**, this framework links a 100% 3D-printed horizontal cantilever thrust stand to a Python analytics engine for live aerodynamic profiling and multi-rotor scaling.
 
