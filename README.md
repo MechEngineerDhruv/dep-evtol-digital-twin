@@ -1,7 +1,7 @@
 # 🚁 Digital Twin Framework for Real-Time Rotor Thrust & Power Monitoring in DEP Systems
 
 <div style="display: flex; align-items: flex-start; gap: 10px;">
-  <img src="Full-Assembly-Rendring.jpg" width="400" alt="DEP Digital Twin Test Rig">
+  <img src="Full-Assembly-Rendering.jpg" width="400" alt="DEP Digital Twin Test Rig">
   <img src="test-stand.jpg" width="400" alt="Second Test Rig">
 </div>
 
