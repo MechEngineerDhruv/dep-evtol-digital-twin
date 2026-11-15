@@ -33,6 +33,8 @@ A real-time, bidirectional **Cyber-Physical Digital Twin** designed to evaluate 
 
 ### Pinout & Wiring Configuration
 
+![Schematic](Main_Schematic_2026-10-10.jpg)
+
 ```text
 [AC Mains Wall Power] 
    ├── Live (L), Neutral (N), & Earth (E) ──► [12V 25A SMPS Input] (Earth required for safety/EMI reduction)
